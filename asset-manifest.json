@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/miteshkumar77/miteshkumar77.github.io/static/css/main.43700ecf.chunk.css",
+    "main.js": "/miteshkumar77/miteshkumar77.github.io/static/js/main.90597f55.chunk.js",
+    "main.js.map": "/miteshkumar77/miteshkumar77.github.io/static/js/main.90597f55.chunk.js.map",
+    "runtime-main.js": "/miteshkumar77/miteshkumar77.github.io/static/js/runtime-main.22de338f.js",
+    "runtime-main.js.map": "/miteshkumar77/miteshkumar77.github.io/static/js/runtime-main.22de338f.js.map",
+    "static/js/2.04446240.chunk.js": "/miteshkumar77/miteshkumar77.github.io/static/js/2.04446240.chunk.js",
+    "static/js/2.04446240.chunk.js.map": "/miteshkumar77/miteshkumar77.github.io/static/js/2.04446240.chunk.js.map",
+    "index.html": "/miteshkumar77/miteshkumar77.github.io/index.html",
+    "precache-manifest.2873d8ee35ce7f8f40d5d99f85fe78c1.js": "/miteshkumar77/miteshkumar77.github.io/precache-manifest.2873d8ee35ce7f8f40d5d99f85fe78c1.js",
+    "service-worker.js": "/miteshkumar77/miteshkumar77.github.io/service-worker.js",
+    "static/css/main.43700ecf.chunk.css.map": "/miteshkumar77/miteshkumar77.github.io/static/css/main.43700ecf.chunk.css.map",
+    "static/js/2.04446240.chunk.js.LICENSE.txt": "/miteshkumar77/miteshkumar77.github.io/static/js/2.04446240.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22de338f.js",
+    "static/js/2.04446240.chunk.js",
+    "static/css/main.43700ecf.chunk.css",
+    "static/js/main.90597f55.chunk.js"
+  ]
+}
