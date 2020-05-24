@@ -37,7 +37,7 @@ export default function About() {
             </div>
 
             <div className={classes.control}>
-                <Typography variant="h5" component="h2">
+                <Typography variant="h5" component="h2" align='center'>
                 Hi, I am a Computer Science Student at Rensselaer Polytechnic Institute. 
                 </Typography>
             </div>

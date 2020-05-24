@@ -21,6 +21,7 @@ function App() {
         <Navbar/> 
         <Container fixed>
           <About/>
+          <hr className='solid'/>
         </Container>
       </MuiThemeProvider>
     </div>
