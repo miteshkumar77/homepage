@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/miteshkumar77/miteshkumar77.github.io/static/css/main.43700ecf.chunk.css",
-    "main.js": "/miteshkumar77/miteshkumar77.github.io/static/js/main.90597f55.chunk.js",
-    "main.js.map": "/miteshkumar77/miteshkumar77.github.io/static/js/main.90597f55.chunk.js.map",
-    "runtime-main.js": "/miteshkumar77/miteshkumar77.github.io/static/js/runtime-main.22de338f.js",
-    "runtime-main.js.map": "/miteshkumar77/miteshkumar77.github.io/static/js/runtime-main.22de338f.js.map",
-    "static/js/2.04446240.chunk.js": "/miteshkumar77/miteshkumar77.github.io/static/js/2.04446240.chunk.js",
-    "static/js/2.04446240.chunk.js.map": "/miteshkumar77/miteshkumar77.github.io/static/js/2.04446240.chunk.js.map",
-    "index.html": "/miteshkumar77/miteshkumar77.github.io/index.html",
-    "precache-manifest.2873d8ee35ce7f8f40d5d99f85fe78c1.js": "/miteshkumar77/miteshkumar77.github.io/precache-manifest.2873d8ee35ce7f8f40d5d99f85fe78c1.js",
-    "service-worker.js": "/miteshkumar77/miteshkumar77.github.io/service-worker.js",
-    "static/css/main.43700ecf.chunk.css.map": "/miteshkumar77/miteshkumar77.github.io/static/css/main.43700ecf.chunk.css.map",
-    "static/js/2.04446240.chunk.js.LICENSE.txt": "/miteshkumar77/miteshkumar77.github.io/static/js/2.04446240.chunk.js.LICENSE.txt"
+    "main.css": "/homepage/static/css/main.43700ecf.chunk.css",
+    "main.js": "/homepage/static/js/main.408eb7ab.chunk.js",
+    "main.js.map": "/homepage/static/js/main.408eb7ab.chunk.js.map",
+    "runtime-main.js": "/homepage/static/js/runtime-main.ae933cb9.js",
+    "runtime-main.js.map": "/homepage/static/js/runtime-main.ae933cb9.js.map",
+    "static/js/2.04446240.chunk.js": "/homepage/static/js/2.04446240.chunk.js",
+    "static/js/2.04446240.chunk.js.map": "/homepage/static/js/2.04446240.chunk.js.map",
+    "index.html": "/homepage/index.html",
+    "precache-manifest.5a12790601bffd063d50f75c83386c06.js": "/homepage/precache-manifest.5a12790601bffd063d50f75c83386c06.js",
+    "service-worker.js": "/homepage/service-worker.js",
+    "static/css/main.43700ecf.chunk.css.map": "/homepage/static/css/main.43700ecf.chunk.css.map",
+    "static/js/2.04446240.chunk.js.LICENSE.txt": "/homepage/static/js/2.04446240.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.22de338f.js",
+    "static/js/runtime-main.ae933cb9.js",
     "static/js/2.04446240.chunk.js",
     "static/css/main.43700ecf.chunk.css",
-    "static/js/main.90597f55.chunk.js"
+    "static/js/main.408eb7ab.chunk.js"
   ]
 }
