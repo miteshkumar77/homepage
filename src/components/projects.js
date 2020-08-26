@@ -33,6 +33,9 @@ const useStyles = makeStyles((theme) => ({
     root: {
       flexGrow: 1,
     },
+    button_label: {
+      marginRight: "10px",
+    },
     paper: {
       height: 140,
       width: 100,
@@ -56,10 +59,17 @@ const useStyles = makeStyles((theme) => ({
 
 
 function IconLink(props) {
+  const classes = useStyles(); 
+
   return (
     <Button
       href={props.href}
     >
+      <div className={classes.button_label}>  
+        <Typography variant="body2" color="textSecondary" component="p">
+          {props.label}
+        </Typography>
+      </div>
       <SvgIcon fontSize='large'>
         <path d={props.path}/>
       </SvgIcon>
@@ -103,7 +113,7 @@ function PillReminderProject() {
         <CardHeader
         
           action={
-            <IconLink path={CodeIcon} href={PillReminderPath}/>
+            <IconLink path={CodeIcon} href={PillReminderPath} label={"Source Code"}/>
           }
           title="Pill Reminder"
           subheader="April 2020"
@@ -163,7 +173,7 @@ function PillReminderProject() {
         <CardHeader
         
           action={
-            <IconLink path={CodeIcon} href={fbChessPath}/>
+            <IconLink path={CodeIcon} href={fbChessPath} label={"Source Code"}/>
           }
           title="FB Chess"
           subheader="June 2020"
@@ -226,7 +236,7 @@ function PillReminderProject() {
         <CardHeader
         
           action={
-            <IconLink path={CodeIcon} href={LineFollowerPath}/>
+            <IconLink path={CodeIcon} href={LineFollowerPath} label={"Source Code"}/>
           }
           title="Line Follower"
           subheader="January 2020"
