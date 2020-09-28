@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import Navbar from "./components/navbar";
 import About from "./components/about";
-import Resume from "./components/resume";
+import Projects from "./components/projects"; 
 import { makeStyles } from "@material-ui/core/styles";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import { Container, MuiThemeProvider } from "@material-ui/core";
@@ -23,6 +23,9 @@ function App() {
         <Container fixed>
           <About />
           <hr className="solid" />
+          <Projects /> 
+          <hr className="solid" /> 
+          
         </Container>
       </MuiThemeProvider>
     </div>
